@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Console_Based_Stopwatch\bin\Debug\net9.0\Console_Based_Stopwatch.exe
+C:\Users\hp\Desktop\Console_Based_Stopwatch\bin\Debug\net9.0\Console_Based_Stopwatch.deps.json
+C:\Users\hp\Desktop\Console_Based_Stopwatch\bin\Debug\net9.0\Console_Based_Stopwatch.runtimeconfig.json
+C:\Users\hp\Desktop\Console_Based_Stopwatch\bin\Debug\net9.0\Console_Based_Stopwatch.dll
+C:\Users\hp\Desktop\Console_Based_Stopwatch\bin\Debug\net9.0\Console_Based_Stopwatch.pdb
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.AssemblyInfo.cs
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.dll
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\refint\Console_Based_Stopwatch.dll
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.pdb
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.genruntimeconfig.cache
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\ref\Console_Based_Stopwatch.dll
