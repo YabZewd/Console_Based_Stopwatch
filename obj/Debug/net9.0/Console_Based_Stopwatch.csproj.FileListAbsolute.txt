@@ -12,3 +12,4 @@ C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\refint\Console_Base
 C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.pdb
 C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.genruntimeconfig.cache
 C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\ref\Console_Based_Stopwatch.dll
+C:\Users\hp\Desktop\Console_Based_Stopwatch\obj\Debug\net9.0\Console_Based_Stopwatch.sourcelink.json
